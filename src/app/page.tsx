@@ -112,7 +112,7 @@ export default function Home() {
           <p className="text-sm font-bold tracking-[0.3em] mb-4" style={{opacity:0.8}}>SINCE 1993</p>
           <h1 className="text-5xl md:text-6xl font-extrabold mb-6">Socket Flanges</h1>
           <p className="text-xl md:text-2xl mb-4 font-medium">
-            Carbon Steel / Stainless / Alloy Flanges per ASME / ANSI / API
+            Carbon Steel / Stainless / Alloy Flanges per ASME / ANSI
           </p>
           <p className="text-lg mb-2" style={{opacity:0.9}}>
             Manufacturing and Supplying a complete line of Industrial Pipe Flanges with Multiple materials available.
