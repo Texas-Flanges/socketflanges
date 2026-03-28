@@ -15,14 +15,14 @@ export default function BlogPage() {
       title: "The Evolution of Socket Flanges: From Design to Application",
       date: "July 9, 2024",
       description: "Explore the journey of socket flanges from their initial design concepts to their current applications, highlighting the innovations and improvements that have shaped their development.",
-      image: "/evolution-article.png",
+      image: "/socket-weld.jpg",
     },
     {
       slug: "choose-the-right-socket-flange",
       title: "How to Choose the Right Socket Flange for Your Project",
       date: "July 9, 2024",
       description: "Selecting the right socket flange is crucial for ensuring the efficiency and reliability of your piping system. This guide covers key factors to consider when making your choice.",
-      image: "/choose-article.png",
+      image: "/socket-weld-config-dwg.jpg",
     },
   ];
 

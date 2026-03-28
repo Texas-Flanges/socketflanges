@@ -78,7 +78,7 @@ export default function ArticleEvolution() {
         <p className="text-gray-500 text-sm mb-8">July 9, 2024</p>
 
         <img
-          src="/evolution-article.png"
+          src="/socket-weld.jpg"
           alt="Evolution of Socket Flanges"
           className="w-full rounded-xl mb-10 shadow"
           style={{maxHeight:'400px', objectFit:'cover'}}

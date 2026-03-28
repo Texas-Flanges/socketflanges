@@ -112,10 +112,13 @@ export default function Home() {
           <p className="text-sm font-bold tracking-[0.3em] mb-4" style={{opacity:0.8}}>SINCE 1993</p>
           <h1 className="text-5xl md:text-6xl font-extrabold mb-6">Socket Flanges</h1>
           <p className="text-xl md:text-2xl mb-4 font-medium">
-            Carbon Steel / Stainless / Alloy Flanges per ASME / ANSI / AWWA / API
+            Carbon Steel / Stainless / Alloy Flanges per ASME / ANSI / API
           </p>
-          <p className="text-lg mb-8" style={{opacity:0.9}}>
+          <p className="text-lg mb-2" style={{opacity:0.9}}>
             Manufacturing and Supplying a complete line of Industrial Pipe Flanges with Multiple materials available.
+          </p>
+          <p className="text-lg mb-8 font-semibold" style={{opacity:0.95}}>
+            Custom socket flanges per your request!
           </p>
           <a
             href="https://www.texasflange.com/lp12/?ref=socketflanges"
@@ -143,8 +146,8 @@ export default function Home() {
                 Orifice Flanges, Ring, and custom steel flanges in sizes 1/2&quot; to 203&quot;.
               </p>
               <p className="text-gray-700 text-base leading-relaxed">
-                Pressure classes — 75, 125, 150, 175, 250, 300, 350, 400, 600, 900, 1500, 2500, 5K, 10K, 15K, 20K.
-                High Yield — Low Temp.
+                Pressure classes - 75, 125, 150, 175, 250, 300, 350, 400, 600, 900, 1500, 2500, 5K, 10K, 15K, 20K.
+                High Yield - Low Temp.
               </p>
             </div>
             <div className="flex justify-center">
@@ -164,7 +167,7 @@ export default function Home() {
         <div className="max-w-7xl mx-auto px-6">
           <div className="rv text-center mb-10">
             <h2 className="text-3xl font-bold" style={{color:'#1a3a5c'}}>WHY US?</h2>
-            <p className="text-lg text-gray-600 mt-2">1/2&quot; – 202&quot; INDUSTRIAL FLANGES</p>
+            <p className="text-lg text-gray-600 mt-2">1/2&quot; - 202&quot; INDUSTRIAL FLANGES</p>
           </div>
           <div className="rv grid md:grid-cols-2 gap-10">
             <div>
@@ -172,15 +175,15 @@ export default function Home() {
               <ul className="space-y-2 text-gray-700 text-sm">
                 <li>ANSI / ASME FORGED FLANGES</li>
                 <li>MSS-SP-44 FLANGES / ANSI B 16.47 SERIES A</li>
-                <li>API TYPE 6A — RTJ Face Flanges</li>
+                <li>API TYPE 6A - RTJ Face Flanges</li>
                 <li>API-605 FLANGES / ANSI B 16.47 SERIES B</li>
-                <li>A.G.A. ORIFICE UNIONS — Furnished with or without Hardware.</li>
+                <li>A.G.A. ORIFICE UNIONS - Furnished with or without Hardware.</li>
                 <li>ASME BOILER CODE FLANGES</li>
-                <li>CL. 125 LIGHTWEIGHT FLANGES — For low pressure applications.</li>
-                <li>PLATE FLANGES — From 1/4&quot; thru 8&quot; Thick, Including AWWA C-207, and all other special designs.</li>
+                <li>CL. 125 LIGHTWEIGHT FLANGES - For low pressure applications.</li>
+                <li>PLATE FLANGES - From 1/4&quot; thru 8&quot; Thick, Including AWWA C-207, and all other special designs.</li>
                 <li>ANSI LONG WELDNECKS &amp; SPECIAL BODY CONNECTORS, HB, E, I1, I2, I3 and CUSTOM</li>
-                <li>STUDDING OUTLETS (pad flanges) – flat bottom or radiused to fit</li>
-                <li>SPECTACLE BLINDS — (line blinds, paddle spacers/blinds)</li>
+                <li>STUDDING OUTLETS (pad flanges) - flat bottom or radiused to fit</li>
+                <li>SPECTACLE BLINDS - (line blinds, paddle spacers/blinds)</li>
                 <li>DIN FLANGES</li>
                 <li>JIS FLANGES</li>
                 <li>Special Ring Flanges</li>
@@ -189,17 +192,17 @@ export default function Home() {
             <div>
               <h3 className="text-xl font-bold mb-4" style={{color:'#1a3a5c'}}>Materials Used:</h3>
               <ul className="space-y-2 text-gray-700 text-sm">
-                <li>CARBON STEEL — ASTM/ASME SA-105, A-350 LF-2, LF-3, A694, SA-516-70, A36</li>
-                <li>CHROME ALLOYS — A-182-F-1, F-5, F-6, F-9, F-91, F-11, F-12, F-22</li>
-                <li>STAINLESS STEEL — A-182 — F-304, Dual Grade 304/304L, Dual Grade 316/316L, 316, 304H, Dual Grade 304/304H, Dual Grade 316/316H, 316H, 309, 310, 317L, 321, 347, 347H, 904L, Alloy 20, many other H grades</li>
-                <li>ALUMINUM — 3003, 6061, 5083 and other grades upon request.</li>
-                <li>HASTALLOY — B-2, C-276, G, X, C-22</li>
-                <li>INCONEL — 600, 601, 625, 718</li>
-                <li>INCOLLOY — 800, 825, 800H, 800HT</li>
-                <li>MONEL — 400</li>
-                <li>COPPER — 90/10 (C70600), 70/30 (C71500)</li>
-                <li>Duplex – F51/2205, F53/2507</li>
-                <li>TITANIUM — Gr2, Gr12</li>
+                <li>CARBON STEEL - ASTM/ASME SA-105, A-350 LF-2, LF-3, A694, SA-516-70, A36</li>
+                <li>CHROME ALLOYS - A-182-F-1, F-5, F-6, F-9, F-91, F-11, F-12, F-22</li>
+                <li>STAINLESS STEEL - A-182 - F-304, Dual Grade 304/304L, Dual Grade 316/316L, 316, 304H, Dual Grade 304/304H, Dual Grade 316/316H, 316H, 309, 310, 317L, 321, 347, 347H, 904L, Alloy 20, many other H grades</li>
+                <li>ALUMINUM - 3003, 6061, 5083 and other grades upon request.</li>
+                <li>HASTALLOY - B-2, C-276, G, X, C-22</li>
+                <li>INCONEL - 600, 601, 625, 718</li>
+                <li>INCOLLOY - 800, 825, 800H, 800HT</li>
+                <li>MONEL - 400</li>
+                <li>COPPER - 90/10 (C70600), 70/30 (C71500)</li>
+                <li>Duplex - F51/2205, F53/2507</li>
+                <li>TITANIUM - Gr2, Gr12</li>
               </ul>
               <p className="text-gray-700 text-sm mt-4">
                 We also offer a full line of Stainless and Alloy Plate Flame Cutting and Galvanized Carbon Steel Flanges.
@@ -209,6 +212,27 @@ export default function Home() {
                 We source them and make them per your requirements.
               </p>
             </div>
+          </div>
+        </div>
+      </section>
+
+      {/* HOW DO SOCKET WELD FLANGES WORK */}
+      <section className="py-16 bg-white">
+        <div className="max-w-4xl mx-auto px-6">
+          <h2 className="text-3xl font-bold mb-6" style={{color:'#1a3a5c'}}>How Do Socket Weld Flanges Work?</h2>
+          <div className="text-gray-700 text-base leading-relaxed space-y-4">
+            <p>
+              Think of a socket weld flange like a cupholder - the pipe slides down into a recessed pocket (the socket) machined into the flange bore. Once seated, a fillet weld is applied around the outside of the hub to lock the joint in place. This makes for a clean, strong connection without the need to bevel the pipe end or do a full-penetration butt weld.
+            </p>
+            <p>
+              Socket weld flanges are most common in smaller pipe sizes - typically NPS 1/2 through NPS 4 - and are a go-to choice in systems that run at moderate to high pressure but lower flow volumes. You will see them in chemical processing, instrumentation lines, hydraulic systems, and steam service, among other applications.
+            </p>
+            <p>
+              One thing to know: socket weld flanges are not available in Class 2500. They are standard in Class 150 through 1500. The pipe must be square-cut (not beveled) and a 1/16-inch expansion gap is required between the pipe end and the bottom of the socket per ASME B16.11. This gap allows for thermal expansion and helps prevent stress cracking during welding.
+            </p>
+            <p>
+              Because the weld is a fillet weld at the hub rather than a full-penetration butt weld, socket weld connections are generally limited to lower-criticality services. They are not typically used where full radiographic examination of the weld joint is required. For higher-pressure, larger-diameter, or more critical applications, weld neck flanges are usually the better choice.
+            </p>
           </div>
         </div>
       </section>
@@ -264,7 +288,7 @@ export default function Home() {
               <p className="text-sm mb-1">Phone: <a href="tel:+12814848325" className="hover:text-white no-underline" style={{color:'#aaa'}}>281-484-8325</a></p>
               <p className="text-sm mb-1">Fax: 281-484-8730</p>
               <p className="text-sm mb-1">Email: <a href="mailto:sales@texasflange.com" className="hover:text-white no-underline" style={{color:'#aaa'}}>sales@texasflange.com</a></p>
-              <p className="text-sm">Business Hours: Mon–Fri, 8 AM – 5 PM CST</p>
+              <p className="text-sm">Business Hours: Mon-Fri, 8 AM - 5 PM CST</p>
             </div>
           </div>
           <div className="border-t pt-6 text-center text-sm" style={{borderColor:'#1e3a56'}}>

@@ -78,7 +78,7 @@ export default function ArticleChoose() {
         <p className="text-gray-500 text-sm mb-8">July 9, 2024</p>
 
         <img
-          src="/choose-article.png"
+          src="/socket-weld-config-dwg.jpg"
           alt="Choosing the Right Socket Flange"
           className="w-full rounded-xl mb-10 shadow"
           style={{maxHeight:'400px', objectFit:'cover'}}
