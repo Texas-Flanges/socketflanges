@@ -140,6 +140,9 @@ export default function Home() {
                 for the Petrochemical, Process, and Waterworks industries in Stainless Steel Industrial Flanges,
                 Alloy Steel Industrial Flanges and Carbon Steel Industrial Flanges.
               </p>
+              <p className="text-gray-700 text-base leading-relaxed font-bold mb-1" style={{color:'#1a3a5c'}}>
+                We also provide
+              </p>
               <p className="text-gray-700 text-base leading-relaxed mb-4">
                 ANSI, API, AWWA pipe flanges in carbon steel, stainless steel, alloys and chrome steel.
                 Our steel flanges can be Weld Neck, Slip on, Blind, Threaded, Socket Weld, Lap Joint,
@@ -222,16 +225,10 @@ export default function Home() {
           <h2 className="text-3xl font-bold mb-6" style={{color:'#1a3a5c'}}>How Do Socket Weld Flanges Work?</h2>
           <div className="text-gray-700 text-base leading-relaxed space-y-4">
             <p>
-              Think of a socket weld flange like a cupholder - the pipe slides down into a recessed pocket (the socket) machined into the flange bore. Once seated, a fillet weld is applied around the outside of the hub to lock the joint in place. This makes for a clean, strong connection without the need to bevel the pipe end or do a full-penetration butt weld.
+              Think of a socket weld flange like a cupholder: the pipe slides down into a recessed socket in the center of the flange, and then gets welded in place. It's a clean, compact connection that works well when you don't have a lot of room to work with. These flanges are most common in smaller pipe sizes and can be a practical alternative to weld necks or slip-ons when space is tight. Just keep in mind they're better suited for lower-pressure service and shouldn't be used with corrosive fluids or in extreme heat applications (they aren't available in 2500# class, for example).
             </p>
             <p>
-              Socket weld flanges are most common in smaller pipe sizes - typically NPS 1/2 through NPS 4 - and are a go-to choice in systems that run at moderate to high pressure but lower flow volumes. You will see them in chemical processing, instrumentation lines, hydraulic systems, and steam service, among other applications.
-            </p>
-            <p>
-              One thing to know: socket weld flanges are not available in Class 2500. They are standard in Class 150 through 1500. The pipe must be square-cut (not beveled) and a 1/16-inch expansion gap is required between the pipe end and the bottom of the socket per ASME B16.11. This gap allows for thermal expansion and helps prevent stress cracking during welding.
-            </p>
-            <p>
-              Because the weld is a fillet weld at the hub rather than a full-penetration butt weld, socket weld connections are generally limited to lower-criticality services. They are not typically used where full radiographic examination of the weld joint is required. For higher-pressure, larger-diameter, or more critical applications, weld neck flanges are usually the better choice.
+              The pipe sits nearly flush against the bottom of the socket, with just a small gap left intentionally, and that gap gives the welder a little room to position the pipe before making the fillet weld at the hub. One thing worth noting: you'll want to use square-cut pipe for this connection. A beveled pipe end (the kind used for butt weld connections like weld necks) isn't the best fit here when a square end is an option.
             </p>
           </div>
         </div>
